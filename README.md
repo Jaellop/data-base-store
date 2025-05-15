@@ -52,6 +52,17 @@ Tomando en cuenta los indicadores evaluados, se recomienda **vender la Tienda 4*
 - Opiniones de los clientes **menos favorables que Tienda 2 y 3**
 - A pesar de tener el menor costo de envío, **no compensa el bajo rendimiento en los otros indicadores**
 
+## 🔧 Instrucciones para Ejecutar el Notebook
+
+### Opción 1: Ejecutar en Google Colab (Recomendado)
+
+1. Abre el notebook desde este enlace:  
+   👉 [Abrir en Google Colab](https://colab.research.google.com/github/usuario/proyecto-tiendas/blob/main/analisis_tiendas.ipynb)
+
+2. Asegúrate de tener conexión a internet para que los archivos `.csv` puedan cargarse correctamente desde su URL.
+
+3. Ejecuta cada celda con **Shift + Enter**.
+
 ---
 
 > Proyecto desarrollado como parte de un reto de Ciencia de Datos - Alura LATAM.
